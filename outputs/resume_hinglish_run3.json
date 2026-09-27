@@ -1,0 +1,17 @@
+{
+  "match_score": 82,
+  "top_strengths": [
+    "Python development with experience in projects",
+    "Built a chatbot using Gemini API and prompt tuning",
+    "Developed Flask APIs for frontend communication",
+    "Experience with JSON parsing and output formatting",
+    "Used Pydantic for model validation and error handling"
+  ],
+  "missing_skills": [
+    "FastAPI",
+    "Docker deployment",
+    "Cloud deployment (GCP / AWS)",
+    "Basic NLP / OCR experience"
+  ],
+  "summary": "Good fit: The candidate demonstrates strong Python skills, experience with LLM API integration (Gemini), prompt engineering, and Flask API development, aligning well with core responsibilities.\nThe candidate needs to gain experience with Docker deployment and potentially cloud platforms to fully meet the job requirements."
+}

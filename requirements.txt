@@ -1,0 +1,7 @@
+google-genai>=1.0
+pydantic>=2.5
+# dev / tooling
+pytest>=8.0
+pillow>=10.0      # stress_test_assets/make_test_files.py
+reportlab>=4.0    # stress_test_assets/make_test_files.py
+markdown>=3.5     # tools/build_report.py

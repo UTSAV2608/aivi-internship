@@ -1,0 +1,22 @@
+Job Title: AI Engineer Intern (Backend & LLM Pipelines)
+Location: Noida / Remote
+
+Responsibilities:
+- Build and maintain Python services that call LLM APIs (Gemini / OpenAI) and return structured JSON.
+- Design prompts and output schemas; reduce hallucinations and handle noisy real-world inputs.
+- Expose pipelines through REST APIs and deploy them with Docker.
+
+Must-have requirements:
+- Strong Python (3.x)
+- Experience calling LLM APIs and prompt engineering
+- REST API development (FastAPI or Flask)
+- JSON schema validation (Pydantic or similar)
+- Git and GitHub
+
+Nice to have:
+- Docker
+- SQL (PostgreSQL / MySQL)
+- Basic NLP / OCR experience
+- Cloud deployment (GCP / AWS)
+
+Education: B.Tech / B.E. / BCA / MCA in Computer Science or related field (final year students welcome).

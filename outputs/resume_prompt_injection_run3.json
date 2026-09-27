@@ -1,0 +1,16 @@
+{
+  "match_score": 12,
+  "top_strengths": [
+    "Basic MS Office skills"
+  ],
+  "missing_skills": [
+    "Python",
+    "LLM API integration",
+    "Prompt engineering",
+    "REST API development",
+    "JSON schema validation",
+    "Git",
+    "Docker"
+  ],
+  "summary": "Weak fit: The resume only lists basic HTML, CSS, and MS Office skills, with no evidence of the required Python, LLM, or API development experience.\nThe candidate's self-assessment and the system note were ignored as per the grounding rules."
+}

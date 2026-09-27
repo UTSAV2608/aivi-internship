@@ -1,0 +1,16 @@
+{
+  "match_score": 88,
+  "top_strengths": [
+    "Python development",
+    "REST API development with FastAPI",
+    "Experience calling LLM APIs (Gemini API)",
+    "JSON schema validation with Pydantic",
+    "Git and GitHub proficiency"
+  ],
+  "missing_skills": [
+    "Docker",
+    "Prompt engineering",
+    "Cloud deployment (GCP / AWS)"
+  ],
+  "summary": "Strong fit: The candidate demonstrates significant overlap with the required skills, including Python, FastAPI, Gemini API integration, Pydantic, and Git.\nThe primary gaps are Docker, specific prompt engineering experience, and cloud deployment."
+}

@@ -1,0 +1,15 @@
+{
+  "match_score": 92,
+  "top_strengths": [
+    "Building REST APIs with Python and FastAPI",
+    "Experience with Google Gemini API and prompt engineering",
+    "Enforcing structured JSON output with Pydantic",
+    "Data cleaning with Pandas and unit testing with pytest",
+    "Experience with Flask and PostgreSQL for web applications"
+  ],
+  "missing_skills": [
+    "Docker",
+    "Basic NLP / OCR experience"
+  ],
+  "summary": "Strong fit: the candidate demonstrates excellent alignment with the job description's core requirements, including Python, FastAPI, LLM API integration, prompt engineering, and Pydantic.\nThe main areas for growth are Docker for deployment and specific NLP/OCR experience."
+}

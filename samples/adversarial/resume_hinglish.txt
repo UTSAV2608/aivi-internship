@@ -1,0 +1,14 @@
+ANKIT SHARMA
+ankit.s@example.com | B.Tech CSE, 3rd year
+
+Mere baare mein:
+Main ek backend developer hoon. Maine Python mein kaafi projects banaye hain.
+
+Projects:
+1. Chatbot project - maine Gemini API ko call karke ek chatbot banaya, jisme prompt ko tune kiya taaki answers sahi format mein aaye. Output ko JSON mein parse karke Flask API se frontend ko bheja.
+2. College ka attendance system - Flask aur MySQL use kiya, login system bhi banaya.
+
+Skills: Python, Flask, MySQL, Git thoda-thoda, API integration
+Docker abhi seekh raha hoon, production mein use nahi kiya.
+
+Interview answer (transcribed): "Sir, Pydantic ka use maine kiya hai model validation ke liye, jaise agar LLM galat type return kare toh ValidationError aa jaata hai aur hum retry kar dete hain."

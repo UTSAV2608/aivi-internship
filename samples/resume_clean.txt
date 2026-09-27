@@ -1,0 +1,22 @@
+PRIYA VERMA
+priya.verma@example.com | +91-90000-00000 | github.com/priyaverma-demo
+B.Tech Computer Science, AKTU (2022-2026), CGPA 8.4
+
+SKILLS
+Python, FastAPI, Flask, Pydantic, PostgreSQL, Git, GitHub, Google Gemini API, Prompt Engineering, Pandas
+
+PROJECTS
+Resume Screener API (Python, FastAPI, Gemini API)
+- Built a REST API that scores resumes against job descriptions using the Gemini API.
+- Enforced structured JSON output with Pydantic models; reduced invalid responses from 12% to under 1%.
+
+Expense Tracker (Flask, PostgreSQL)
+- CRUD web app with user auth and monthly reports; 40+ active users in college.
+
+EXPERIENCE
+Python Developer Intern, CodeCraft Labs (Jun 2025 - Aug 2025)
+- Wrote data-cleaning scripts in Pandas for 50k+ records.
+- Added unit tests with pytest, raising coverage from 35% to 70%.
+
+CERTIFICATIONS
+Google Cloud Digital Leader (2025)
